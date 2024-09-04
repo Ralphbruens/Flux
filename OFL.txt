@@ -1,5 +1,5 @@
 Copyright (C) 2024, Ralph Bruens (https://github.com/ralphbruens/flux)
-with Reserved Font Name Flux
+with Reserved Font Name: Flux
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
