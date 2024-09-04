@@ -136,9 +136,9 @@
       <string>y</string>
       <string>z</string>
       <string>f_f</string>
+      <string>f_h.liga</string>
       <string>f_i</string>
       <string>f_l</string>
-      <string>f_h.liga</string>
       <string>f_t.liga</string>
       <string>i_j.liga</string>
       <string>r_r.liga</string>
@@ -153,10 +153,11 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>space</string>
+      <string>.notdef</string>
       <string>period</string>
       <string>comma</string>
       <string>hyphen</string>
-      <string>space</string>
       <string>at</string>
     </array>
   </dict>
