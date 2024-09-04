@@ -1,0 +1,140 @@
+{
+glyphname = comma;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+origin = "{0, 24}";
+target = "{0, 31}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 24}";
+target = "{0, 16}";
+type = Stem;
+},
+{
+origin = "{0, 28}";
+target = "{0, 20}";
+type = Stem;
+},
+{
+origin = "{0, 20}";
+target = "{0, 12}";
+type = Stem;
+}
+);
+layerId = "B9294602-EB87-4DCD-A39F-D52598F560AD";
+paths = (
+{
+closed = 1;
+nodes = (
+"94 -115 LINE SMOOTH",
+"123 -115 OFFCURVE",
+"145 -93 OFFCURVE",
+"145 -64 CURVE SMOOTH",
+"145 -51 LINE SMOOTH",
+"145 -22 OFFCURVE",
+"167 0 OFFCURVE",
+"196 0 CURVE SMOOTH",
+"209 0 LINE SMOOTH",
+"238 0 OFFCURVE",
+"260 22 OFFCURVE",
+"260 51 CURVE SMOOTH",
+"260 64 LINE SMOOTH",
+"260 93 OFFCURVE",
+"238 115 OFFCURVE",
+"209 115 CURVE SMOOTH",
+"197 115 LINE SMOOTH",
+"168 115 OFFCURVE",
+"145 93 OFFCURVE",
+"145 64 CURVE SMOOTH",
+"145 51 LINE SMOOTH",
+"145 22 OFFCURVE",
+"123 0 OFFCURVE",
+"94 0 CURVE SMOOTH",
+"81 0 LINE SMOOTH",
+"52 0 OFFCURVE",
+"30 -22 OFFCURVE",
+"30 -51 CURVE SMOOTH",
+"30 -64 LINE SMOOTH",
+"30 -93 OFFCURVE",
+"52 -115 OFFCURVE",
+"81 -115 CURVE SMOOTH"
+);
+}
+);
+width = 290;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 24}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 24}";
+target = "{0, 16}";
+type = Stem;
+},
+{
+origin = "{0, 28}";
+target = "{0, 20}";
+type = Stem;
+},
+{
+origin = "{0, 20}";
+target = "{0, 12}";
+type = Stem;
+}
+);
+layerId = "52F3452F-C0C6-4900-9BFE-1786415B207F";
+paths = (
+{
+closed = 1;
+nodes = (
+"94 -115 LINE SMOOTH",
+"123 -115 OFFCURVE",
+"145 -93 OFFCURVE",
+"145 -64 CURVE SMOOTH",
+"145 -51 LINE SMOOTH",
+"145 -22 OFFCURVE",
+"167 0 OFFCURVE",
+"196 0 CURVE SMOOTH",
+"209 0 LINE SMOOTH",
+"238 0 OFFCURVE",
+"260 22 OFFCURVE",
+"260 51 CURVE SMOOTH",
+"260 64 LINE SMOOTH",
+"260 93 OFFCURVE",
+"238 115 OFFCURVE",
+"209 115 CURVE SMOOTH",
+"197 115 LINE SMOOTH",
+"168 115 OFFCURVE",
+"145 93 OFFCURVE",
+"145 64 CURVE SMOOTH",
+"145 51 LINE SMOOTH",
+"145 22 OFFCURVE",
+"123 0 OFFCURVE",
+"94 0 CURVE SMOOTH",
+"81 0 LINE SMOOTH",
+"52 0 OFFCURVE",
+"30 -22 OFFCURVE",
+"30 -51 CURVE SMOOTH",
+"30 -64 LINE SMOOTH",
+"30 -93 OFFCURVE",
+"52 -115 OFFCURVE",
+"81 -115 CURVE SMOOTH"
+);
+}
+);
+width = 290;
+}
+);
+unicode = 002C;
+}

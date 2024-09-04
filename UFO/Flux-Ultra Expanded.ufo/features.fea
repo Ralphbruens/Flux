@@ -1,0 +1,83 @@
+@MMK_L_o = [f o];
+@MMK_R_o = [c d o];
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+languagesystem DFLT dflt;
+### close prefix 'Languagesystems' ###
+
+### feature:0:liga ###
+feature liga {
+### open feature 'liga' ###
+lookupflag IgnoreMarks;
+sub f f by f_f;
+sub f h by f_h.liga;
+sub f i by f_i;
+sub f l by f_l;
+sub f t by f_t.liga;
+sub i j by i_j.liga;
+sub r r by r_r.liga;
+sub t t by t_t.liga;
+### close feature 'liga' ###
+} liga;
+
+### feature:-1:kern ###
+feature kern {
+### open feature 'kern' ###
+	lookup kern_latn {
+		lookupflag IgnoreMarks;
+		pos c j -110;
+		pos e r -75;
+		pos f B 90;
+		pos f D 90;
+		pos f E 90;
+		pos f F 90;
+		pos f H 90;
+		pos f I 90;
+		pos f J -130;
+		pos f K 90;
+		pos f L 90;
+		pos f N 90;
+		pos f P 90;
+		pos f R 90;
+		pos f S 90;
+		pos f T 90;
+		pos f U 90;
+		pos f V 90;
+		pos f W 90;
+		pos f X 90;
+		pos f Y 90;
+		pos f Z 90;
+		pos f a -30;
+		pos f b 90;
+		pos f c 50;
+		pos f d -80;
+		pos f e -30;
+		pos f f -65;
+		pos f g -50;
+		pos f h 90;
+		pos f i -65;
+		pos f j -110;
+		pos f k 90;
+		pos f l 90;
+		pos f m 50;
+		pos f o -90;
+		pos f q -90;
+		pos f s -90;
+		pos f t 90;
+		pos f zero 30;
+		pos f one 90;
+		pos f three 90;
+		pos f four 90;
+		pos l b 110;
+		pos l h 110;
+		pos l k 110;
+		pos q a -90;
+		pos q c -90;
+		pos t e -75;
+		pos t r -75;
+		pos p @MMK_R_o -80;
+	} kern_latn;
+	lookupflag 0;
+### close feature 'kern' ###
+} kern;
+

@@ -1,0 +1,128 @@
+{
+glyphname = i;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+origin = "{1, 4}";
+target = "{1, 12}";
+type = Stem;
+},
+{
+origin = "{1, 15}";
+target = "{1, 8}";
+type = Stem;
+}
+);
+layerId = "B9294602-EB87-4DCD-A39F-D52598F560AD";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 51 LINE SMOOTH",
+"30 22 OFFCURVE",
+"52 0 OFFCURVE",
+"81 0 CURVE SMOOTH",
+"94 0 LINE SMOOTH",
+"123 0 OFFCURVE",
+"145 22 OFFCURVE",
+"145 51 CURVE SMOOTH",
+"145 409 LINE SMOOTH",
+"145 438 OFFCURVE",
+"123 460 OFFCURVE",
+"94 460 CURVE SMOOTH",
+"81 460 LINE SMOOTH",
+"52 460 OFFCURVE",
+"30 438 OFFCURVE",
+"30 409 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 626 LINE SMOOTH",
+"30 597 OFFCURVE",
+"52 575 OFFCURVE",
+"81 575 CURVE SMOOTH",
+"94 575 LINE SMOOTH",
+"123 575 OFFCURVE",
+"145 597 OFFCURVE",
+"145 626 CURVE SMOOTH",
+"145 639 LINE SMOOTH",
+"145 668 OFFCURVE",
+"123 690 OFFCURVE",
+"94 690 CURVE SMOOTH",
+"81 690 LINE SMOOTH",
+"52 690 OFFCURVE",
+"30 668 OFFCURVE",
+"30 639 CURVE SMOOTH"
+);
+}
+);
+width = 175;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = "{1, 4}";
+target = "{1, 12}";
+type = Stem;
+},
+{
+origin = "{1, 15}";
+target = "{1, 8}";
+type = Stem;
+}
+);
+layerId = "52F3452F-C0C6-4900-9BFE-1786415B207F";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 51 LINE SMOOTH",
+"30 22 OFFCURVE",
+"52 0 OFFCURVE",
+"81 0 CURVE SMOOTH",
+"94 0 LINE SMOOTH",
+"123 0 OFFCURVE",
+"145 22 OFFCURVE",
+"145 51 CURVE SMOOTH",
+"145 409 LINE SMOOTH",
+"145 438 OFFCURVE",
+"123 460 OFFCURVE",
+"94 460 CURVE SMOOTH",
+"81 460 LINE SMOOTH",
+"52 460 OFFCURVE",
+"30 438 OFFCURVE",
+"30 409 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 626 LINE SMOOTH",
+"30 597 OFFCURVE",
+"52 575 OFFCURVE",
+"81 575 CURVE SMOOTH",
+"94 575 LINE SMOOTH",
+"123 575 OFFCURVE",
+"145 597 OFFCURVE",
+"145 626 CURVE SMOOTH",
+"145 639 LINE SMOOTH",
+"145 668 OFFCURVE",
+"123 690 OFFCURVE",
+"94 690 CURVE SMOOTH",
+"81 690 LINE SMOOTH",
+"52 690 OFFCURVE",
+"30 668 OFFCURVE",
+"30 639 CURVE SMOOTH"
+);
+}
+);
+width = 175;
+}
+);
+unicode = 0069;
+}

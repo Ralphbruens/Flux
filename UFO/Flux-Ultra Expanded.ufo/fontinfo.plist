@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>805</integer>
+    <key>capHeight</key>
+    <integer>690</integer>
+    <key>descender</key>
+    <integer>-230</integer>
+    <key>familyName</key>
+    <string>Flux</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2024/09/03 16:57:06</string>
+    <key>openTypeHheaAscender</key>
+    <integer>805</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-230</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>115</integer>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Ultra Expanded</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1043</integer>
+        <key>nameID</key>
+        <integer>9</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Ralph Bruens</string>
+      </dict>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>805</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-230</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>115</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>9</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>805</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>230</integer>
+    <key>postscriptFontName</key>
+    <string>Flux-UltraExpanded</string>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>115</integer>
+      <integer>115</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>115</integer>
+      <integer>115</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>115</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>15</integer>
+    <key>styleMapFamilyName</key>
+    <string>Flux Ultra Expanded</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Ultra Expanded</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>575</integer>
+  </dict>
+</plist>
