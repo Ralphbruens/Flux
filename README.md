@@ -1,4 +1,4 @@
 # Flux
  Flux is a variable display font
 
-![Flux Thumbail](img/coverfile.png)
+![Flux Thumbail](img/filecover.png)
