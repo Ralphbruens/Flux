@@ -1,0 +1,413 @@
+{
+.appVersion = "3260";
+copyright = "Copyright 2024 Flux Variable Font Authors (https://github.com/ralphbruens/flux)";
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = license;
+value = "OFL-1.1 License";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Width;
+Tag = wdth;
+}
+);
+}
+);
+date = "2024-09-03 16:57:06 +0000";
+designer = "Ralph Bruens";
+designerURL = fonts.ralphbruens.nl;
+familyName = Flux;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f f by f_f;\012sub f h by f_h.liga;\012sub f i by f_i;\012sub f l by f_l;\012sub f t by f_t.liga;\012sub i j by i_j.liga;\012sub r r by r_r.liga;\012sub t t by t_t.liga;\012";
+name = liga;
+}
+);
+fontMaster = (
+{
+ascender = 805;
+capHeight = 690;
+customParameters = (
+{
+name = winAscent;
+value = 805;
+},
+{
+name = winDescent;
+value = 230;
+},
+{
+name = typoAscender;
+value = 805;
+},
+{
+name = typoDescender;
+value = -230;
+},
+{
+name = typoLineGap;
+value = 115;
+},
+{
+name = hheaAscender;
+value = 805;
+},
+{
+name = hheaDescender;
+value = -230;
+},
+{
+name = hheaLineGap;
+value = 115;
+},
+{
+name = underlinePosition;
+value = 115;
+},
+{
+name = underlineThickness;
+value = 15;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+descender = -230;
+horizontalStems = (
+115,
+115
+);
+iconName = Light_Condensed;
+id = "B9294602-EB87-4DCD-A39F-D52598F560AD";
+userData = {
+GSCornerRadius = 50;
+};
+verticalStems = (
+115,
+115
+);
+visible = 1;
+weightValue = 300;
+width = Condensed;
+xHeight = 575;
+},
+{
+ascender = 805;
+capHeight = 690;
+custom = "Ultra Expanded";
+customParameters = (
+{
+name = winAscent;
+value = 805;
+},
+{
+name = winDescent;
+value = 230;
+},
+{
+name = typoAscender;
+value = 805;
+},
+{
+name = typoDescender;
+value = -230;
+},
+{
+name = typoLineGap;
+value = 115;
+},
+{
+name = hheaAscender;
+value = 805;
+},
+{
+name = hheaDescender;
+value = -230;
+},
+{
+name = hheaLineGap;
+value = 115;
+},
+{
+name = underlinePosition;
+value = 115;
+},
+{
+name = underlineThickness;
+value = 15;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+descender = -230;
+horizontalStems = (
+115,
+115
+);
+iconName = Light_Extended;
+id = "52F3452F-C0C6-4900-9BFE-1786415B207F";
+userData = {
+GSCornerRadius = 50;
+};
+verticalStems = (
+115,
+115
+);
+weightValue = 900;
+xHeight = 575;
+}
+);
+gridLength = 115;
+gridSubDivision = 115;
+instances = (
+{
+interpolationWeight = 300;
+instanceInterpolations = {
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = 1;
+};
+name = Condensed;
+widthClass = Condensed;
+},
+{
+interpolationWeight = 400;
+instanceInterpolations = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = 0.16667;
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = 0.83333;
+};
+name = "Semi Condensed";
+widthClass = SemiCondensed;
+},
+{
+interpolationWeight = 500;
+instanceInterpolations = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = 0.33333;
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = 0.66667;
+};
+name = Normal;
+},
+{
+interpolationWeight = 600;
+instanceInterpolations = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = 0.5;
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = 0.5;
+};
+name = "Semi Expanded";
+widthClass = "Semi Expanded";
+},
+{
+interpolationWeight = 700;
+instanceInterpolations = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = 0.66667;
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = 0.33333;
+};
+name = Expanded;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 800;
+instanceInterpolations = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = 0.83333;
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = 0.16667;
+};
+name = "Extra Expanded";
+widthClass = "Extra Expanded";
+},
+{
+interpolationWeight = 900;
+instanceInterpolations = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = 1;
+};
+name = "Ultra Expanded";
+widthClass = "Ultra Expanded";
+}
+);
+kerning = {
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = {
+c = {
+j = -110;
+};
+e = {
+r = -75;
+};
+f = {
+B = 90;
+D = 90;
+E = 90;
+F = 90;
+H = 90;
+I = 90;
+J = -130;
+K = 90;
+L = 90;
+N = 90;
+P = 90;
+R = 90;
+S = 90;
+T = 90;
+U = 90;
+V = 90;
+W = 90;
+X = 90;
+Y = 90;
+Z = 90;
+a = -30;
+b = 90;
+c = 50;
+d = -80;
+e = -30;
+f = -65;
+four = 90;
+g = -50;
+h = 90;
+i = -65;
+j = -110;
+k = 90;
+l = 90;
+m = 50;
+o = -90;
+one = 90;
+q = -90;
+s = -90;
+t = 90;
+three = 90;
+zero = 30;
+};
+l = {
+b = 110;
+h = 110;
+k = 110;
+};
+p = {
+"@MMK_R_o" = 0;
+};
+q = {
+a = -90;
+c = -90;
+};
+t = {
+e = -75;
+r = -75;
+};
+};
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = {
+c = {
+j = -110;
+};
+e = {
+r = -75;
+};
+f = {
+B = 90;
+D = 90;
+E = 90;
+F = 90;
+H = 90;
+I = 90;
+J = -130;
+K = 90;
+L = 90;
+N = 90;
+P = 90;
+R = 90;
+S = 90;
+T = 90;
+U = 90;
+V = 90;
+W = 90;
+X = 90;
+Y = 90;
+Z = 90;
+a = -30;
+b = 90;
+c = 50;
+d = -80;
+e = -30;
+f = -65;
+four = 90;
+g = -50;
+h = 90;
+i = -65;
+j = -110;
+k = 90;
+l = 90;
+m = 50;
+o = -90;
+one = 90;
+q = -90;
+s = -90;
+t = 90;
+three = 90;
+zero = 30;
+};
+l = {
+b = 110;
+h = 110;
+k = 110;
+};
+p = {
+"@MMK_R_o" = -80;
+};
+q = {
+a = -90;
+c = -90;
+};
+t = {
+e = -75;
+r = -75;
+};
+};
+};
+manufacturer = "Ralph Bruens";
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"52F3452F-C0C6-4900-9BFE-1786415B207F" = {
+HH = "115";
+HV = "115";
+OH = "115";
+OV = "115";
+nV = "115";
+nd = "115";
+oH = "115";
+oV = "115";
+tH = "115";
+};
+"89D264E5-E25E-4693-992D-98147D6E2B81" = {
+};
+"B9294602-EB87-4DCD-A39F-D52598F560AD" = {
+HH = "115";
+OH = "115";
+OV = "115";
+nV = "115";
+nd = "115";
+oH = "115";
+oV = "115";
+tH = "115";
+};
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}
